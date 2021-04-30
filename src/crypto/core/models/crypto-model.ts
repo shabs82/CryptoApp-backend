@@ -3,5 +3,4 @@ export interface CryptoModel {
   name: string;
   description: string;
   price: number;
-  value: number;
 }
